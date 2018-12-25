@@ -6,6 +6,7 @@ import os
 
 """
 Using the plotter:
+hahha
 
 Call it from the command line, and supply it with logdirs to experiments.
 Suppose you ran an experiment with name 'test', and you ran 'test' for 10 
